@@ -1,3 +1,6 @@
+
+#!/usr/bin/env bash
+
 #Inputs
  
 NSX_MANAGER="10.173.13.82"
@@ -11,7 +14,6 @@ NSX_SUPERUSER_CERT_FILE="pks-nsx-t-superuser-NEW.crt"
 NSX_SUPERUSER_KEY_FILE="pks-nsx-t-superuser-NEW.key"
 NODE_ID=$(cat /proc/sys/kernel/random/uuid)
 
-echo "$NODE_ID"
 
 # Create Cert
 openssl req \
