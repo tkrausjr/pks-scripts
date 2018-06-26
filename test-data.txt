@@ -1,0 +1,7 @@
+Instance                                           Process State  AZ      IPs
+apply-addons/bd1be949-8093-4699-ac54-a663696ac146  -              AZ-K8S  10.41.0.7
+master/2ced5f00-d67a-4c49-a27d-4624c663a8e6        -              AZ-K8S  10.41.0.2
+worker/2724c754-3b61-4e0a-9810-4e87893f6f2f        -              AZ-K8S  10.41.0.3
+worker/3e8e1b97-53cf-4a19-9b52-305650b6d08c        -              AZ-K8S  10.41.0.4
+worker/d127dcc8-5e25-4044-b2e7-33b72f8692a2        running        AZ-K8S  10.41.0.5
+worker/f2f36f17-ad40-4e5d-bab4-6107237b6cf9        -              AZ-K8S  10.41.0.6
